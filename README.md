@@ -1,2 +1,2 @@
 # blogs
-It`s my blog folder.
+It`s my blog files.
