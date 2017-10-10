@@ -1,4 +1,4 @@
-#JS之substring()、substr()、slice()详解
+##JS之substring()、substr()、slice()详解
 ### 1. substring()
 ```
 格式：substring(开始位置,结束位置)
